@@ -21,19 +21,19 @@ Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ## Newsletter
 
-I send a "what Pete's up to" email out every few weeks. [Subscribe here.](http://eepurl.com/bSB4Kn)
+I send a "what Pete's up to" email out every couple of months. [Subscribe here.](http://eepurl.com/bSB4Kn)
 
 ## Art
 
 I am a practicing artist at the start of my career.  
 
--	[BOM Fellowship](http://bom.org.uk) - I'm a Birmingham Open Media Fellow.  
+- [My art portfolio is here](http://art.peteashton.com)
 
--	[My portfolio is on this page](/art/).
+-	My work through 2017 concerns cameras as post-photographic data-capture devices and [is being documented and developed here](https://github.com/peteash10/2017-body-of-work).
 
--	My work through 2017 concerns cameras, images and artifician intelligence and [is being documented and developed here](https://github.com/peteash10/2017-body-of-work).
+-	I was part of the [Goodbye Wittgenstein](http://a3projectspace.org/index.php/project/goodbye_wittgenstein/) residency exchange with A3 Projects Space in Birmingham and qujOchÖ in Linz, Austria.
 
--	I'm part of the [Goodbye Wittgenstein](http://a3projectspace.org/index.php/project/goodbye_wittgenstein/) residency exchange with A3 Projects Space in Birmingham and qujOchÖ in Linz, Austria.
+-	I was an inarguaral [Birmingham Open Media Fellow](http://bom.org.uk) from 2014-16 and will be showing my work there in late 2017.  
 
 
 
@@ -51,11 +51,12 @@ I'm involved in various things, often with other people.
 
 ## Presences
 
-I have content on the following commercial services:
+I have content on the following commercial online services:
 
 -	[Twitter](https://twitter.com/peteashton)  
 -	[Tumblr](http://peteashton.tumblr.com)  
--	[Vimeo](http://vimeo.com/peteashton/)  
+-	[Vimeo](http://vimeo.com/peteashton/)
+-	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[GitHub](https://github.com/peteash10)  
 -	[Instagram](https://www.instagram.com/peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)

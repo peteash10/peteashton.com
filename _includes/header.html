@@ -17,7 +17,7 @@
 
       <div class="trigger">
         {% for my_page in site.pages %}
-          {% if my_page.title and my_page.category != menu %}
+          {% if my_page.category == "menu" %}
           <a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
