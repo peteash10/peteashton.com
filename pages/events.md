@@ -22,7 +22,9 @@ Here's a list of upcoming things I'm either running or am involved with.
 
 - [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Feb 5th, Feb 19th, Feb 25th
 
-- [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Jan 26th
+- [Show and Tell artists feedback session](http://blog.peteashton.com/art/2017/01/12/showandtell/): Feb 16th
+
+- [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Feb 26th
 
 ## March 2017
 
@@ -30,4 +32,4 @@ Here's a list of upcoming things I'm either running or am involved with.
 
 ## April 2017
 
-- [Resonate Festival, Belgrade](http://resonate.io/2017/) (Attending, not speaking) Apr 19th-22nd
+- [Resonate Festival, Belgrade](http://resonate.io/2017/) (attending, not speaking): Apr 19th-22nd
