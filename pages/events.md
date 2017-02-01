@@ -7,22 +7,13 @@ category: menu
 
 Here's a list of upcoming things I'm either running or am involved with.
 
-## January 2017
-
-- [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Jan 14th, Jan 22nd, Jan 28th
-
-- [Night Photo Walk with Tripods](http://photo-school.co.uk/walks/): Jan 24th
-
-- [Kings Norton Photography Society talk](http://kingsnortonphotographicsociety.com/user/events.aspx): Jan 25th
-
-- [Spaghetti Junction Photo Walk](http://photo-school.co.uk/walks/): Jan 29th
-
-
 ## February 2017
 
 - [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Feb 5th, Feb 19th, Feb 25th
 
-- [Show and Tell artists feedback session](http://blog.peteashton.com/art/2017/01/12/showandtell/): Feb 16th
+- [Spaghetti Junction Photo Walk](http://photo-school.co.uk/walks/): Feb 12th
+
+- [Show and Tell artists feedback session](https://www.facebook.com/events/279302345822721): Feb 16th
 
 - [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Feb 26th
 
