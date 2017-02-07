@@ -5,7 +5,7 @@ permalink: /events/
 category: menu
 ---
 
-Here's a list of upcoming things I'm either running or am involved with.
+Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
 ## February 2017
 
@@ -22,6 +22,8 @@ Here's a list of upcoming things I'm either running or am involved with.
 ## March 2017
 
 - [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Mar 5th, Mar 19th, Mar 25th
+
+- [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Mar 26th
 
 ## April 2017
 
