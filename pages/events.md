@@ -15,7 +15,7 @@ Here's a list of upcoming things I'm either running or am involved with.
 
 - [Show and Tell artists feedback session](https://www.facebook.com/events/279302345822721): Feb 16th
 
-- [Artist and AI with Gene Kogan and Memo Akten](https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111) (I'm just attending but keen to meet people): Feb 20th
+- [Artists and AI with Gene Kogan and Memo Akten](https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111) (I'm just attending but keen to meet people): Feb 20th
 
 - [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Feb 26th
 
