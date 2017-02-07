@@ -9,11 +9,13 @@ Here's a list of upcoming things I'm either running or am involved with.
 
 ## February 2017
 
-- [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Feb 5th, Feb 19th, Feb 25th
+- [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Feb 19th, Feb 25th
 
 - [Spaghetti Junction Photo Walk](http://photo-school.co.uk/walks/): Feb 12th
 
 - [Show and Tell artists feedback session](https://www.facebook.com/events/279302345822721): Feb 16th
+
+- [Artist and AI with Gene Kogan and Memo Akten](https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111) (I'm just attending but keen to meet people): Feb 20th
 
 - [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Feb 26th
 
