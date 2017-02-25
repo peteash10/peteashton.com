@@ -7,19 +7,10 @@ category: menu
 
 Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
-## February 2017
-
-- [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Feb 19th, Feb 25th
-
-- [Spaghetti Junction Photo Walk](http://photo-school.co.uk/walks/): Feb 12th
-
-- [Show and Tell artists feedback session](https://www.facebook.com/events/279302345822721): Feb 16th
-
-- [Artists and AI with Gene Kogan and Memo Akten](https://www.eventbrite.co.uk/e/artists-and-machine-learning-registration-31817203111) (I'm just attending but keen to meet people): Feb 20th
-
-- [Digbeth Photo Walk](http://photo-school.co.uk/walks/): Feb 26th
 
 ## March 2017
+
+- [Black Hole Club at Vivid](http://www.vividprojects.org.uk/programme/black-hole-club-launch/) (group show featuring my work): Mar 3rd
 
 - [Photo School Beginners Class](http://photo-school.co.uk/beginners-photography/): Mar 5th, Mar 19th, Mar 25th
 
