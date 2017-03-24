@@ -7,7 +7,7 @@ category: menu
 
 # This is Pete Ashton's website
 
-[I'm an artist](http://art.peteashton.com), mostly working with cameras and data, based in Birmingham in the North West of Europe.
+[I'm an artist](http://art.peteashton.com), working with cameras and data, based in Birmingham in the North West of Europe.
 
 ## Contact
 
