@@ -10,8 +10,6 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## May
 
-Sat 6th: [Spaghetti Junction photo walk](https://ti.to/photo-school/spaghetti-junction-spring-2017). 
-
 Thu 11th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
 Sun 14th: [Beginners Photography class](https://ti.to/photo-school/beginners-photography-loaf-may-14), Stirchley
@@ -19,6 +17,8 @@ Sun 14th: [Beginners Photography class](https://ti.to/photo-school/beginners-pho
 Thu 25th: Performing a new work, Echo Edit, at [Live Art Cinema](http://hfwas.co.uk/?p=3694), The Edge, Birmingham.
 
 ## June
+
+Fri 2nd: Transmission group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/). (Proposal for work submitted. Will attend either way.)
 
 Sun 4th: [Digbeth photo walk](https://ti.to/photo-school/digbeth-june-2017).
 
@@ -32,14 +32,20 @@ Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteu
 
 ## August
 
+[Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
+
+- 7th - 12th: Obscura Portrait Studio ([ala Hockney](http://bhamobscura.com/2014/08/david-hockneys-secret-knowledge/)) installed at [BMAG](http://www.birminghammuseums.org.uk/bmag).
+- Sat 19th: Speculative Camera Workshop at [BMAG](http://www.birminghammuseums.org.uk/bmag).
+- Tue 22nd: [Birmingham Camera Obscura](http://bhamobscura.com/) appearance in city centre.
+
 Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
 ## September
 
-[Beginners Photography](http://photo-school.co.uk/beginners-photography/) classes start again (dates tba)
+tbc: [Beginners Photography](http://photo-school.co.uk/beginners-photography/) classes start again.
 
 7th - 11th: Peforming with [qujOchÖ](http://qujochoe.org) at [Ars Electronica Festival](https://www.aec.at/ai/en/), Linz, Austria.  
 
 ## November
 
-[Instructons for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition and performances. Dates tba.
+tbc: [Instructons for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition and performances.
