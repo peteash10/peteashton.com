@@ -10,15 +10,11 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## May
 
-Thu 11th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
-
-Sun 14th: [Beginners Photography class](https://ti.to/photo-school/beginners-photography-loaf-may-14), Stirchley
-
 Thu 25th: Performing a new work, Echo Edit, at [Live Art Cinema](http://hfwas.co.uk/?p=3694), The Edge, Birmingham.
 
 ## June
 
-Fri 2nd: Transmission group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/). (Proposal for work submitted. Will attend either way.)
+Fri 2nd: Listen To The Walls, a new sonogramatic installation premiering at the Transmission group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/).
 
 Sun 4th: [Digbeth photo walk](https://ti.to/photo-school/digbeth-june-2017).
 
@@ -27,6 +23,8 @@ Thu 8th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup
 Sun 11th: [Beginners Photography class](https://ti.to/photo-school/beginners-photography-loaf-june-11), Stirchley
 
 ## July
+
+Sun 2nd: [Spaghetti Junction photo walk](https://ti.to/photo-school/spaghetti-junction-summer-2017).
 
 Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
