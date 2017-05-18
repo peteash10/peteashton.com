@@ -17,6 +17,10 @@ Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ![](images/29245876503_038141b55f_o.jpg)
 
+## Art
+
+[My portfolio site](http://art.peteashton.com) has my main works with documentation.
+
 ## Blog
 
 Sometimes my head gets too full and I need to pour words into [blog.peteashton.com](http://blog.peteashton.com).
