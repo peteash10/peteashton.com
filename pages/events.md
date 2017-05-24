@@ -42,8 +42,14 @@ Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteu
 
 tbc: [Beginners Photography](http://photo-school.co.uk/beginners-photography/) classes start again.
 
-7th - 11th: Peforming with [qujOchÖ](http://qujochoe.org) at [Ars Electronica Festival](https://www.aec.at/ai/en/), Linz, Austria.  
+7th - 11th: Peforming with [qujOchÖ](http://qujochoe.org) at [Ars Electronica Festival](https://www.aec.at/ai/en/), Linz, Austria.
+
+tbc: Talk for [Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/) about Ars Electronica visit.  
+
+## October
+
+4th: [Instructons for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition  at BOM from early October to late January
 
 ## November
 
-tbc: [Instructons for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition and performances.
+tbc: [Instructons for Humans](http://art.peteashton.com/instructions-for-humans/) performances, walks and symposium.
