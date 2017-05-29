@@ -7,11 +7,6 @@ category: menu
 
 Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
-
-## May
-
-Thu 25th: Performing a new work, Echo Edit, at [Live Art Cinema](http://hfwas.co.uk/?p=3694), The Edge, Birmingham.
-
 ## June
 
 Fri 2nd: Listen To The Walls, a new sonogramatic installation premiering at the Transmission group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/).
@@ -30,7 +25,7 @@ Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteu
 
 ## August
 
-<img src="../images/dib300px.jpg" align="right">[Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
+[Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
 
 - 7th - 12th: [Portrait Studio Hack Week](https://www.developedinbirmingham.com/programme/portrait-studio-hack-week/) - a camera obscura studio ([ala Hockney](http://bhamobscura.com/2014/08/david-hockneys-secret-knowledge/)) installed at [BMAG](http://www.birminghammuseums.org.uk/bmag).
 - Sat 12th: [Portrait Studio Workshop](https://www.developedinbirmingham.com/programme/portrait-studio-drop-in-workshop/) - 12-5pm. Free drop-in.
