@@ -30,11 +30,12 @@ Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteu
 
 ## August
 
-[Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
+<img src="../images/dib300px.jpg" align="right">[Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
 
-- 7th - 12th: Obscura Portrait Studio ([ala Hockney](http://bhamobscura.com/2014/08/david-hockneys-secret-knowledge/)) installed at [BMAG](http://www.birminghammuseums.org.uk/bmag).
-- Sat 19th: Speculative Camera Workshop at [BMAG](http://www.birminghammuseums.org.uk/bmag).
-- Tue 22nd: [Birmingham Camera Obscura](http://bhamobscura.com/) appearance in city centre.
+- 7th - 12th: [Portrait Studio Hack Week](https://www.developedinbirmingham.com/programme/portrait-studio-hack-week/) - a camera obscura studio ([ala Hockney](http://bhamobscura.com/2014/08/david-hockneys-secret-knowledge/)) installed at [BMAG](http://www.birminghammuseums.org.uk/bmag).
+- Sat 12th: [Portrait Studio Workshop](https://www.developedinbirmingham.com/programme/portrait-studio-drop-in-workshop/) - 12-5pm. Free drop-in.
+- Sat 19th: [Speculative Camera Workshop](https://www.developedinbirmingham.com/programme/speculative-cameras-workshop/) at [BMAG](http://www.birminghammuseums.org.uk/bmag). 12-4pm. £5.
+- Tue 29th: [Birmingham Camera Obscura](https://www.developedinbirmingham.com/programme/bham-camera-obscura-appearance/) appearance at Millennium Point. 11am-3pm.
 
 Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
