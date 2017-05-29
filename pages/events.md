@@ -9,7 +9,7 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## June
 
-Fri 2nd: Listen To The Walls, a new sonogramatic installation premiering at the Transmission group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/).
+Fri 2nd: Listen To The Walls, a new sonogramatic installation premiering at the [Transmission](http://www.vividprojects.org.uk/programme/transmission/) group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/).
 
 Sun 4th: [Digbeth photo walk](https://ti.to/photo-school/digbeth-june-2017).
 
