@@ -1,4 +1,4 @@
-<link href="file:///Users/peteashton/Library/Containers/me.tanmay.WriteMac/Data/Library/Application%20Support/Write/CSS/WFM-LightThemeMode.css" rel="stylesheet"></link><!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8"/>
@@ -14,6 +14,7 @@
 <figure>
 <img src="http://blog.peteashton.com/images/echoedit-anchorman.jpg" alt="" style="width:600px;" />
 </figure>
+<p>A key part of <a href="http://art.peteashton.com/instructions-for-humans/">Instructions for Humans</a>, my major new work this Autumn, will see me collaborate with performance artists to explore machine learning, and in order to work with those artists I need to understand what I'm asking them to do by putting myself in their shoes. </p>
 
 <p><strong>Echo Edit</strong> was my first piece of public performance art. In recent years I've become interested with performance art, mostly because I don't understand it and find some of it impenetrable and uncomfortable. For this reason I think integrating it into my own practice somehow will be useful, possibly in the same way I found hanging around with sound artists made me think about photography (light art, if you like) in new and exciting ways. </p>
 
@@ -66,7 +67,60 @@
 
 <h2 id="documentation">Documentation</h2>
 
-<p>Echo Edit was proposed as a durational performance piece in response to an open call on the theme of Live Art + Cinema. I </p>
+<p>Echo Edit was proposed as a durational performance piece in response to an <a href="http://hfwas.co.uk/?p=3694">open call</a> for It's Alive! put out by local performance art collective Home For Waifs And Strays and experimental film night <a href="https://www.facebook.com/themagiccinema/">Magic Cinema</a> on the theme of Live Art + Cinema. <a href="http://andyhowlett.co.uk">Andy Howlett</a>, who runs Magic Cinema, had been interested for a while in the potential of combining the spontaneity and fleshiness of live art with the premeditation and mechanically mediated atemporality of cinema, resulting in a <em>Dream 53</em>, a performative recreation of a &quot;lost&quot; surrealist film for the <a href="http://hfwas.co.uk/?page_id=3237">Homegrown</a> project. The open call read as follows:</p>
+
+<blockquote>
+<p>Home For Waifs and Strays are joining forces with Magic Cinema to put on an event that breaks down the boundaries between performance and film.</p>
+
+<p>We are looking for short performances designed for film, live art incorporating film, cinematic performances, performance documentation, performance in dialogue with film, and any other live art/film mutation you can conceive.</p>
+</blockquote>
+
+<p>My proposal was this:</p>
+
+<blockquote>
+<p>Experience the history of cinema editing itself into a unique narrative through the medium of human gesture as artist Pete Ashton, connected to a gesture control system, allows the movies to control his movements. (This is terrible. Please ask for a rewrite if this is accepted!)</p>
+
+<p>An experimental piece using the Wekinator gesture recognition programme and an archive of movie files. As a section of a film plays on the screen I will echo the movements of an actor. My movements will be recorded by the computer and translated, via Wekinator, into instructions to select which film to play next and where to start (eg, film 23 at 45 minutes in). I will then repeat my mimicry until the system is triggered and a new film starts. </p>
+
+<p>The work will therefore comprise of randomly juxtaposed scenes from a wide range of films accompanied by a live human performance informed by those films. As my movements will be directly informed by the footage on the screen, the films themselves will be authoring their edits. </p>
+
+<p>As part of my next body of work, Instructions for Humans, I will be developing work where humans learn from machines and vice versa. This will serve as a simple test of this concept. </p>
+</blockquote>
+
+<p>Which, remarkably given I wrote this in an evening and had no real idea if it would work, is pretty much what I did. </p>
+
+<p>Jumping to specific points in films was the hardest technical challenge. A movie is a big file, and getting a computer to load a big file every few seconds is a massive ask. So resized and recompressed the movie files and then sliced them into small chunks. The solution I settled on was to get <a href="https://ffmpeg.org">ffmpeg</a> to slice the movie at every <a href="https://en.wikipedia.org/wiki/Key_frame#Video_compression">keyframe</a>. This means the chunks aren't all the same length but has the advantage of usually starting at a change of shot. Here's the ffmpeg command I used, should you ever need to do this. </p>
+
+<pre><code>for file in *.mp4; do mkdir clips/${file%.m4v}; ffmpeg -i ${file%.mp4}.mp4 -acodec copy -f segment -vcodec copy -reset_timestamps 1 -map 0 clips/${file%.mp4}/${file%.mp4}-%d.mp4;  done
+</code></pre>
+
+<p>I processed some 30-odd movies, removed the credits and grouped the clips into 12 folders with 5,000 in each. (I was aiming for 100 movies but time ran out, and frankly 60,000 clips is plenty!) </p>
+
+<p>Next I threw together a quick <a href="https://puredata.info">PureData</a> patch to load and loop each clip for a 10 seconds. Initially it generated two random numbers between 0 and 11 and between 1 and 5000 which combined to reference a movie clip directory and file (eg 5/2633.mp4) but random was only good for testing. I needed to bring the human in. </p>
+
+<p>To do this I used a couple of applications. The first was a simple webcam app which converted the stream to a very low-resolution 10x10 grid of blocks. This means rather than sending all the video data it just sends 100 numbers per frame which is much more manageable. It also has a really nice aesthetic. (In the screenshot below you can see the 10x10 grid in the bottom right with a normal webcam shot above it. On the right is a movie clip.)</p>
+
+<figure>
+<img src="http://blog.peteashton.com/images/echoedit-screenshot.jpg" alt="" style="width:600px;" />
+</figure>
+
+<p>The webcam app sent these 100 numbers over the OSC protocol to the machine learning control application <a href="http://www.wekinator.org/">Wekinator</a>. </p>
+
+<p>Wekinator is a tool for converting a fuzzy signal into a number which can be used to control another programme or instrument. For example, waving in the top-right of a webcam view can send a number to a synthesiser which triggers a high-pitched tone. There's some good examples of Wekinator being used for musical instruments <a href="http://www.wekinator.org/example-projects/">here</a>. </p>
+
+<p>Wekinator is very easy to use but I had trouble getting meaningful numbers out of it, mostly because there was no meaning inherent in what I was asking it to do. I wanted particular gestures and shapes that I made to give me a number from a specific range, but that meant I either wasn't accessing the full range of files or, worse, that any gestures I hadn't trained for weren't generating anything. </p>
+
+<p>What I should have done, and will do when I do this properly <a href="http://art.peteashton.com/instructions-for-humans/">in August</a> with Emily and Aleks, is use a machine learning system to analyse the gestures and shapes in each movie clip and assign them a reference. The same system would then analyse me on the fly and compare my reference to the database of clips, loading a similar one. That way there'd be an explicit connection between my gestures and the order of the movie clips. </p>
+
+<p>This didn't happen in Echo Edit as I was effectively acting as a human random number generator, within some arbitrary ranges. Whether this was a problem or not is a very interesting question though. </p>
+
+<p>I performed for an hour with a couple of technical breaks and ended up with <a href="https://vimeo.com/219027996">40 minutes of recorded material</a>. </p>
+
+<p><iframe src="https://player.vimeo.com/video/219027996" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>Given I felt like I was just generating random numbers, I tried removing Wekinator from the system for the last 10 minutes (<a href="https://vimeo.com/219027996#t=1773s">starting here</a>) and reverted to my test system where my gestures had nothing to do with the random selection of clips. To the audience this made no difference and looked exactly the same, but I was interested to know how I'd feel not being part of a loop. The knowledge that I was or wasn't generating the number which loaded the next clip was strangely important. For the first 30 minutes my movements, however meaningless, were part of a system and therefore important. If I wasn't there the system would just play the same clip over and over. With the computer generating random numbers to load without me I was utterly disposable and my actions pointless as well as meaningless. </p>
+
+<p>I moved from thinking &quot;I could be replaced by a machine&quot; to &quot;I have been replaced by a machine&quot; and it felt bad. </p>
 
 </body>
 </html>
