@@ -2646,7 +2646,7 @@
 				vertical-align: middle;
 				width: calc(100% - 10px);
 			}
-
+		.container .goto-next, 
 		.main .goto-next {
 			-moz-transition: background-color 0.2s ease-in-out;
 			-webkit-transition: background-color 0.2s ease-in-out;
@@ -2671,6 +2671,7 @@
 			width: 4em;
 		}
 
+			.container .goto-next:hover,
 			.main .goto-next:hover {
 				background-color: rgba(144, 144, 144, 0.15);
 			}
