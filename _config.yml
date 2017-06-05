@@ -20,9 +20,10 @@ description: >
   Pete Ashton is an artist and photographer based in Birmingham, UK. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://peteashton.com" # the base hostname & protocol for your site
-twitter_username: peteashton
-github_username:  peteash10
+# twitter_username: peteashton
+# github_username:  peteash10
+twitter_url: https://twitter.com/peteashton
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
