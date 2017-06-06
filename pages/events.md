@@ -9,10 +9,6 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## June
 
-Fri 2nd: Listen To The Walls, a new sonogramatic installation premiering at the [Transmission](http://www.vividprojects.org.uk/programme/transmission/) group show at [Vivid Projects](http://www.vividprojects.org.uk/programme/).
-
-Sun 4th: [Digbeth photo walk](https://ti.to/photo-school/digbeth-june-2017).
-
 Thu 8th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
 Sun 11th: [Beginners Photography class](https://ti.to/photo-school/beginners-photography-loaf-june-11), Stirchley
