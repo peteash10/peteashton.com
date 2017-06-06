@@ -2,7 +2,7 @@
 layout: homepage
 title: Home
 permalink: /
-# category: menu
+category: menu
 ---
 
 # This is Pete Ashton's website
@@ -17,9 +17,17 @@ Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ![](images/29245876503_038141b55f_o.jpg)
 
+## Events
+
+[A list of all the events](http://peteashton.com/events/) I'm running, am involved with or want you to know I'm attending.
+
 ## Art
 
 [My portfolio site](http://art.peteashton.com) has my main works with documentation.
+
+## Workshops
+
+[I run workshops on photography and technology](http://peteashton.com/workshops/) which you can commission me to run. 
 
 ## Blog
 
