@@ -2,7 +2,7 @@
 layout: homepage
 title: Home
 permalink: /
-category: menu
+# category: menu
 ---
 
 # This is Pete Ashton's website

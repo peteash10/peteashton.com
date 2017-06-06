@@ -7,9 +7,12 @@ permalink: /workshops/
 
 ![Experimental Capture workshop at BOM](../images/workshops-BOMlab.jpg)
 
-I'm an experienced workshop facilitator in a number of areas related to photography and technology. 
+I'm an experienced workshop facilitator in a number of areas related to photography and technology. This is a small selection of the workshops I've delivered recently.
 
-If you are interested in employing me to run any of the following, or to develop something new along these lines, please get in touch on 07775 690 106 or via pete@peteashton.com
+If you are interested in employing me to run any of the following, or to develop something new along these lines, please get in touch. 
+
+T: 07775 690 106   
+E: [pete@peteashton.com](mailto:pete@peteashton.com)
 
 # Photography
 
@@ -35,4 +38,4 @@ My technology workshops usually evolve from my [artistic practice](http://art.pe
 
 **Sonification** is a new workshop being developed this summer at [Artefact](http://artefactstirchley.co.uk) from my [Spectrographic Manifestos](https://vimeo.com/220128563) installation at Vivid Projects. Participants are invited to create visual spectrographs of speech and sounds which are printed and added to a collective "wall of sound". This can then be played using a simple [sonification smartphone app](http://warmplace.ru/soft/phonopaper/). An advanced stream sees participants manipulating the visual data in Photoshop or similar to change pitch and timbre of the resulting sounds. Exploring translations between media forms and the concept of "everything is data", the technology is based on the [ANS Synth](https://en.wikipedia.org/wiki/ANS_synthesizer), a Soviet-era microtonal photoelectronic musical instrument. More info to come.
 
-
+![Workshop at BOM](../images/workshops_BOM.jpg)
