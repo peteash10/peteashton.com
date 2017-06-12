@@ -7,12 +7,6 @@ permalink: /events/
 
 Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
-## June
-
-Thu 8th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
-
-Sun 11th: [Beginners Photography class](https://ti.to/photo-school/beginners-photography-loaf-june-11), Stirchley
-
 ## July
 
 Sun 2nd: [Spaghetti Junction photo walk](https://ti.to/photo-school/spaghetti-junction-summer-2017).
@@ -27,6 +21,8 @@ Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteu
 - Sat 12th: [Portrait Studio Workshop](https://www.developedinbirmingham.com/programme/portrait-studio-drop-in-workshop/) - 12-5pm. Free drop-in.
 - Sat 19th: [Speculative Camera Workshop](https://www.developedinbirmingham.com/programme/speculative-cameras-workshop/) at [BMAG](http://www.birminghammuseums.org.uk/bmag). 12-4pm. £5.
 - Tue 29th: [Birmingham Camera Obscura](https://www.developedinbirmingham.com/programme/bham-camera-obscura-appearance/) appearance at Millennium Point. 11am-3pm.
+
+Sat 26th: Wall of Sonification workshop for [Digitalis](http://digitalismk.org). Milton Keynes Central Library, 11am - 4:30pm.  
 
 Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meeteup at Artefact cafe.
 
