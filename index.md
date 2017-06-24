@@ -63,3 +63,6 @@ I have content on the following commercial online services:
 -	[Instagram](https://www.instagram.com/peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
 
+![](images/pixelpete.jpg)
+
+*Photo by [Fiona Cullinan](http://fionacullinan.com), pixel art by [Jonny Graney](https://www.hipkissandgraney.com).*
