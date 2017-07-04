@@ -9,9 +9,9 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## July
 
-Sun 2nd: [Spaghetti Junction photo walk](https://ti.to/photo-school/spaghetti-junction-summer-2017).
-
 Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meetup at Artefact cafe.
+
+Thu 20th: [Human Interfaces](http://aphe.ac.uk/humaninterfaces/) (The Association for Photography in Higher Education Summer Conference 2017) Discussion panelist. 
 
 ## August
 
