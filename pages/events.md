@@ -22,22 +22,38 @@ Thu 20th: [Human Interfaces](http://aphe.ac.uk/humaninterfaces/) (The Associatio
 - Sat 19th: [Speculative Camera Workshop](https://www.developedinbirmingham.com/programme/speculative-cameras-workshop/) at [BMAG](http://www.birminghammuseums.org.uk/bmag). 12-4pm. £5.
 - Tue 29th: [Birmingham Camera Obscura](https://www.developedinbirmingham.com/programme/bham-camera-obscura-appearance/) appearance at Millennium Point. 11am-3pm.
 
-Sat 26th: Wall of Sonification workshop for [Digitalis](http://digitalismk.org). Milton Keynes Central Library, 11am - 4:30pm.  
+Sat 26th: Wall of Sonification workshop for [Digitalis](http://digitalismk.org). Milton Keynes Central Library, 11am - 4:30pm. Free. 
 
 Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meetup at Artefact cafe.
 
 ## September
 
-tbc: [Beginners Photography](http://photo-school.co.uk/beginners-photography/) classes start again.
+Sun 3rd: [Digbeth Photo Walk](https://ti.to/photo-school/digbeth-sept-2017)
+
+Tues 12th onwards: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM.
 
 7th - 11th: Performing with [qujOchÖ](http://qujochoe.org) at [Ars Electronica Festival](https://www.aec.at/ai/en/), Linz, Austria.
 
 tbc: Talk for [Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/) about Ars Electronica visit.  
 
+Sun 17th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
+
 ## October
 
-4th: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition  at BOM from early October to late January
+Ongoing: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM.
+
+Sun 1st: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
+
+Sun 15th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
 
 ## November
 
-tbc: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) performances, walks and symposium.
+Ongoing: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM.
+
+Sun 12th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
+
+## December 
+
+Ongoing: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM.
+
+Sun 10th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
