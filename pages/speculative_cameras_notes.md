@@ -5,7 +5,7 @@ permalink: /speculative_cameras_notes_2017/
 # category: menu
 ---
 
-I ran a Speculative Cameras workshop for [Developed in Birmingham](https://www.developedinbirmingham.com) on August 19th 2017 at [Birmingham Museum & Art Gallery](http://www.birminghammuseums.org.uk/bmag). These are notes for the participants. 
+I ran a [Speculative Cameras workshop](https://www.developedinbirmingham.com/programme/speculative-cameras-workshop/) for [Developed in Birmingham](https://www.developedinbirmingham.com) on August 19th 2017 at [Birmingham Museum & Art Gallery](http://www.birminghammuseums.org.uk/bmag). These are notes for the participants. 
 
 The course is indebted to [Golan Levin's Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) for CMU which I attended the summer school version of in 2016. Golan has put all the course notes and materials [online](https://github.com/golanlevin/ExperimentalCapture) and you are encouraged to dig deep. 
 
@@ -33,7 +33,7 @@ At the beginning of the slides I showed a bit of my work. Most of it is archived
 
 [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) which open at [Birmingham Open Media next month](http://www.bom.org.uk/event/instructions-for-humans/).
 
-## Camera Obscura
+# Camera Obscura
 
 [Wikipedia's history](https://en.wikipedia.org/wiki/Camera_obscura)
 
@@ -47,13 +47,13 @@ At the beginning of the slides I showed a bit of my work. Most of it is archived
 
 [Sam at Light Play](https://light-play.org) produces beautiful portraits from his camera obscura tent. 
 
-## Junk Lenses
+# Junk Lenses
 
 [Miroslav Tichý](https://en.wikipedia.org/wiki/Miroslav_Tichý) and his [home made camera](http://tichyocean.com/artist/miroslav-tichy).  
 
 The [2000 Through the Viewfinder photos](https://www.flickr.com/photos/peteashton/sets/72157594253244021) I made during my lens-hacking period. 
 
-## Photogrammetry 
+# Photogrammetry 
 
 I've finished a couple of our scans from the workshop. 
 
@@ -75,13 +75,13 @@ I've finished a couple of our scans from the workshop.
 
 There are of course many other ways to capture 3D and depth information. Kinect sensors are popular with artists (see work by [Scatter](http://scatter.nyc) and some phones are coming with dual cameras. Photogrammetry's main requirement is processing power so look for new developments as this increases. 
 
-## Infrared
+# Infrared
 
 This is a subset of [Multispectral Imaging](https://en.wikipedia.org/wiki/Multispectral_image) and I based it on [Golan Levin's introduction to the subject](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md). 
 
 There's been lots of work made with Infrared, to the point where the aesthetic was getting a little tired, but [Richard Mosse](http://www.richardmosse.com) seems to have found a new way to use it which is why I showed you so much of his work. 
 
-## Artificial Intelligence
+# Artificial Intelligence
 
 Such a broad subject and so much to cover. This is the basis of my show [Instructions for Humans at Birmingham Open Media](http://www.bom.org.uk/event/instructions-for-humans/) next month where I'll be in the gallery every day (Wed - Sat, 12-5) so if you'd like to discuss it further please come visit. I will also be gathering more resources at [instructionsforhumans.com](http://instructionsforhumans.com) once the show starts.
 
