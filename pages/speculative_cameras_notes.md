@@ -5,8 +5,6 @@ permalink: /speculative_cameras_notes_2017/
 # category: menu
 ---
 
-# Speculative Cameras notes
-
 I ran a Speculative Cameras workshop for [Developed in Birmingham](https://www.developedinbirmingham.com) on August 19th 2017 at [Birmingham Museum & Art Gallery](http://www.birminghammuseums.org.uk/bmag). These are notes for the participants. 
 
 The course is indebted to [Golan Levin's Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) for CMU which I attended the summer school version of in 2016. Golan has put all the course notes and materials [online](https://github.com/golanlevin/ExperimentalCapture) and you are encouraged to dig deep. 
@@ -35,7 +33,7 @@ At the beginning of the slides I showed a bit of my work. Most of it is archived
 
 [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) which open at [Birmingham Open Media next month](http://www.bom.org.uk/event/instructions-for-humans/).
 
-##Camera Obscura
+## Camera Obscura
 
 [Wikipedia's history](https://en.wikipedia.org/wiki/Camera_obscura)
 
@@ -95,7 +93,7 @@ Such a broad subject and so much to cover. This is the basis of my show [Instruc
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Gu0MkmynWkw?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[Kyle Macdonald's walk through the streets with an object-recognition system running on his laptop.](https://vimeo.com/146492001).  
+[Kyle Macdonald's walk through the streets with an object-recognition system running on his laptop.](https://vimeo.com/146492001)  
 
 [Memo Akten](http://www.memo.tv) currently developing new work using AI systems and is worth keeping an eye on. Something good will emerge from his brain, I'm sure. 
 
