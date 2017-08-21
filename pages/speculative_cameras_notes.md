@@ -9,7 +9,7 @@ I ran a [Speculative Cameras workshop](https://www.developedinbirmingham.com/pro
 
 The course is indebted to [Golan Levin's Experimental Capture course](https://github.com/golanlevin/ExperimentalCapture) for CMU which I attended the summer school version of in 2016. Golan has put all the course notes and materials [online](https://github.com/golanlevin/ExperimentalCapture) and you are encouraged to dig deep. 
 
-Other inspiration comes from [James George](http://jamesgeorge.org)'s talk [Imaging The Future](https://vimeo.com/134973504) and his work with [Alexander Porter](http://alexanderporter.net).
+Other inspiration comes from [James George](http://jamesgeorge.org)'s talk [Imaging The Future](https://vimeo.com/134973504) and his work with [Alexander Porter](http://alexanderporter.net) at [Scatter](http://scatter.nyc).
 
 Speculative Cameras was the title of my work-in-progress while I was a fellow at Birmingham Open Media. [I gave a talk on the subject](https://vimeo.com/159868781) in 2016. This has now morphed into [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/). 
 
