@@ -7,12 +7,6 @@ permalink: /events/
 
 Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
-## July
-
-Thu 13th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meetup at Artefact cafe.
-
-Thu 20th: [Human Interfaces](http://aphe.ac.uk/humaninterfaces/) (The Association for Photography in Higher Education Summer Conference 2017) Discussion panelist. 
-
 ## August
 
 [Developed in Birmingham](https://www.developedinbirmingham.com) - a season of events celebrating early photography for which I'm running:
@@ -24,7 +18,6 @@ Thu 20th: [Human Interfaces](http://aphe.ac.uk/humaninterfaces/) (The Associatio
 
 Sat 26th: Wall of Sonification workshop for [Digitalis](http://digitalismk.org). Milton Keynes Central Library, 11am - 4:30pm. Free. 
 
-Thu 10th: [Show and Tell](http://art.peteashton.com/showandtell/) artists meetup at Artefact cafe.
 
 ## September
 
