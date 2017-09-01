@@ -35,7 +35,7 @@ Sometimes my head gets too full and I need to pour words into [blog.peteashton.c
 
 ## Newsletter
 
-I send a "what Pete's up to" email out every couple of months. [Subscribe here.](http://eepurl.com/bSB4Kn)
+I send a "what Pete's up to" email out every so often. [Subscribe here.](https://tinyletter.com/peteashton)
 
 
 ## Projects
@@ -52,7 +52,7 @@ I'm involved in various things, often with other people.
 
 ## Presences
 
-I have content on the following commercial online services:
+I have content on the following commercial online services, though my use fluxuates. It's always best to email me than DM or similar.
 
 -	[Twitter](https://twitter.com/peteashton)  
 -	[Tumblr](http://peteashton.tumblr.com)  
