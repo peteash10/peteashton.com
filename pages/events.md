@@ -10,17 +10,7 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## September
 
-Sun 3rd: [Digbeth Photo Walk](https://ti.to/photo-school/digbeth-sept-2017)
-
-7th - 11th: Performing [Myth of Theuth](https://www.aec.at/ai/en/myth-of-theuth/) with [qujOchÖ](http://qujochoe.org) at [Ars Electronica Festival](https://www.aec.at/ai/en/), Linz, Austria.
-
-Tue 12th: Launch of [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/), 6-8pm. 
-
 Wed 13th onwards: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM. I will be in the gallery Wed - Sat, 12-5pm.
-
-tbc: Talk for [Black Hole Club](http://www.vividprojects.org.uk/programme/black-hole-club-2017/) about Ars Electronica visit.  
-
-Sun 17th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
 
 ## October
 
