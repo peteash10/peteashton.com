@@ -7,32 +7,8 @@ permalink: /events/
 
 Here's a list of upcoming things I'm either running, am involved with or want you to know I'm attending.
 
+**For art events** related to the Instructions for Humans exhibition, [see this page](http://instructionsforhumans.com/events/). 
 
-## September
+**For photography events** related to Photo School, [see this newsletter](https://us2.campaign-archive.com/?u=7831fcef470b0e8f86ec0af40&id=c9d1aab19d).
 
-Wed 13th onwards: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM. I will be in the gallery Wed - Sat, 12-5pm.
-
-## October
-
-Ongoing: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM. I will be in the gallery Wed - Sat, 12-5pm.
-
-Sun 1st: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
-
-Sat 7th: [Cross City Walk](http://xcw.org.uk) event at BOM. 2pm, free. 
-
-Sun 8th: [Cross City Walk](http://xcw.org.uk) across Birmingham. Details tbc.
-
-Sun 15th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
-
-## November
-
-Ongoing: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM. I will be in the gallery Wed - Sat, 12-5pm.
-
-Sun 12th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
-
-## December 
-
-Ongoing til Dec 16th: [Instructions for Humans](http://art.peteashton.com/instructions-for-humans/) exhibition at BOM. I will be in the gallery Wed - Sat, 12-5pm.
-
-Sun 10th: [Beginners Photography](http://photo-school.co.uk/beginners-photography/).
-
+Normal service (hah!) will resume in the new year. 
