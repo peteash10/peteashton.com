@@ -23,7 +23,7 @@ Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ## Art
 
-[My portfolio site](http://art.peteashton.com) has my main works with documentation.
+[My art portfolio site](http://art.peteashton.com) has my main works with documentation.
 
 ## Workshops
 
