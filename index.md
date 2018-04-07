@@ -50,25 +50,18 @@ I'm involved in various things, often with other people.
 
 -	[Bunminster Fuller & co](http://bunminster.uk) - Rabbits are awesome.  
 
-## Photography
-
-I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton/) because where else is there? If you want to use my photos, for free or for a fee, [here are my wishes](http://peteashton.com/photography_usage). 
-
 ## Presences
 
 I have content on the following commercial online services, though my use fluxuates. It's always best to email me than DM or similar.
 
 -	[Twitter](https://twitter.com/peteashton)  
+-	[Tumblr](http://peteashton.tumblr.com)  
 -	[Vimeo](http://vimeo.com/peteashton/)
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[GitHub](https://github.com/peteash10) 
 -	[Instapaper](https://www.instapaper.com/p/peteashton) 
--	[Flickr](https://www.flickr.com/photos/peteashton/)
-
-Dormant but not deleted, yet:
-
 -	[Instagram](https://www.instagram.com/peteashton/)  
--	[Tumblr](http://peteashton.tumblr.com)  
+-	[Flickr](https://www.flickr.com/photos/peteashton/)
 
 ![](images/pixelpete.jpg)
 
