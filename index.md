@@ -59,13 +59,16 @@ I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton
 I have content on the following commercial online services, though my use fluxuates. It's always best to email me than DM or similar.
 
 -	[Twitter](https://twitter.com/peteashton)  
--	[Tumblr](http://peteashton.tumblr.com)  
 -	[Vimeo](http://vimeo.com/peteashton/)
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[GitHub](https://github.com/peteash10) 
 -	[Instapaper](https://www.instapaper.com/p/peteashton) 
--	[Instagram](https://www.instagram.com/peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
+
+Dormant but not deleted, yet:
+
+-	[Instagram](https://www.instagram.com/peteashton/)  
+-	[Tumblr](http://peteashton.tumblr.com)  
 
 ![](images/pixelpete.jpg)
 
