@@ -50,6 +50,10 @@ I'm involved in various things, often with other people.
 
 -	[Bunminster Fuller & co](http://bunminster.uk) - Rabbits are awesome.  
 
+## Photography
+
+I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton/) because where else is there? If you want to use my photos, for free or for a fee, [here are my wishes](http://peteashton.com/photography_usage). 
+
 ## Presences
 
 I have content on the following commercial online services, though my use fluxuates. It's always best to email me than DM or similar.
