@@ -9,7 +9,7 @@ permalink: /photography_usage/
 
 I am not a professional photographer, by which I mean I do not make a living from taking photos and selling them. I make a living in other ways. That said, photography is at the heart of most of my work so it can get a little confusing.  
 
-I've been taking photos quite a while now and most of them are on the internet in some form. This means people sometimes use the for purposes of their own, and I'm generally fine with that. 
+I've been taking photos quite a while now and most of them are on the internet in some form. This means people sometimes use them for purposes of their own, and I'm generally fine with that. 
 
 I accept that copyright is broken, in that it only serves those with the most lawyers. If you really want to use one of my images against my wishes it's very doubtful I have the time, resources or inclination to fight you. You will, however, probably end up in the hell of your belief system, so there's that. 
 
