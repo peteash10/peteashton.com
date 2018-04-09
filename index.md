@@ -66,6 +66,7 @@ I have content on the following commercial online services, though my use fluxua
 -	[GitHub](https://github.com/peteash10) 
 -	[Instapaper](https://www.instapaper.com/p/peteashton) 
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
+- [Spotify](https://open.spotify.com/user/ft494dxn3wb6vlbhi69w5reln?si=R6982hhhTZ2iVVBERk8AJw)
 
 Dormant but not deleted, yet:
 
