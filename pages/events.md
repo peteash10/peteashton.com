@@ -11,7 +11,7 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 **Art Events**
 
-May 5th: [AI for Artists](http://art-ai.dmu.ac.uk/event/ai-for-artists) workshop at the Art & AI Festival, Phoenix Arts Centre, Leicester. Free. 
+May 5th: [AI for Artists](http://art-ai.dmu.ac.uk/event/ai-for-artists) workshop at the Art & AI Festival, Phoenix Arts Centre, Leicester. Free - [book here](https://www.phoenix.org.uk/event/ai-for-artists/).
 
 Sept - Nov: [Rivers of the World](http://riversoftheworld.org) exhibtion touring London, Exeter and Worcester, featuring work produced by me with Worcestershire pupils. 
 
