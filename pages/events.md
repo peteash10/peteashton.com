@@ -15,4 +15,4 @@ May 5th: [AI for Artists](http://art-ai.dmu.ac.uk/event/ai-for-artists) workshop
 
 Sept - Nov: [Rivers of the World](http://riversoftheworld.org) exhibtion touring London, Exeter and Worcester, featuring work produced by me with Worcestershire pupils. 
 
-I don't have a lot of art-related events scheduled at the moment - am mostly head down writing. But if you'd like to employ me to do a talk or [run a workshop](http://peteashton.com/workshops/), please get in touch! 
+I don't have a lot of art-related events scheduled at the moment - am mostly head down writing. But if you'd like to employ me to [do a talk](http://peteashton.com/talks/) or [run a workshop](http://peteashton.com/workshops/), please get in touch! 
