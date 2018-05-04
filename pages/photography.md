@@ -17,7 +17,7 @@ This page attempts to outline my wishes, such as they are. If you don't think yo
 
 In most individual cases I don't care. If you want to use one of my pictures in your presentation or on your blog, go for it. 
 
-If you're some kind of artist and I've photographed you or your activities, such as a performance or work, and you would like to use my photo to promote that activity, please take the photo as if it were your own. I'd be honoured. 
+If you're some kind of artist and I've photographed you or your activities, such as a performance or work, and you would like to use my photo to document or promote that activity, please take the photo as if it were your own. I'd be honoured. 
 
 If you want to use my photo in a commercial environment, especially where it will appear in public, then I'd really like you to pay me a commercial rate. This is only fair, not to me but to those who are attempting to make a living from such things. I don't want to undercut them. 
 
