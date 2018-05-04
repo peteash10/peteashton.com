@@ -77,4 +77,8 @@ Some AI Art overview essays:
 -----
 
 [Pete Ashton](http://peteashton.com)   
+<<<<<<< HEAD
 *Last updated 5th May 2018*
+=======
+*Last updated 5th May 2018*
+>>>>>>> c478ab2f29ebf764325db5d23a00c99575f2ce6a
