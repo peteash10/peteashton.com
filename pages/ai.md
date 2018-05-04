@@ -5,7 +5,7 @@ permalink: /ai/
 # category: menu
 ---
 
-# Phoenix AI Workshop resources
+Links and resources for the [AI for Artists workshop](https://www.phoenix.org.uk/event/ai-for-artists/) run by [Pete Ashton](http://art.peteashton.com/) at the Phoenix, Leicester, 5th May 2018, part of [Art-AI](http://art-ai.dmu.ac.uk).
 
 ## Introduction
 
