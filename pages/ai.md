@@ -9,25 +9,26 @@ permalink: /ai/
 
 ## Introduction
 
-[Ars Electronica 2017 AI exhibition](https://www.aec.at/ai/en/media-art-between-natural-and-artificial-intelligence/)
+[AI work exhibited at Ars Electronica 2017](https://www.aec.at/ai/en/media-art-between-natural-and-artificial-intelligence/)
 
-AI Art overview essays:
+Some AI Art overview essays:
 
-- https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1
-- https://medium.com/@elluba/the-art-side-of-ai-at-transmediale-ctm-91e1abe24f72
-- https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb
-- [Luba Elliott – AI in Recent Art Practice](https://www.phoenix.org.uk/event/luba-elliott-ai-in-recent-art-practice/)
+- [A digital god for a digital culture.](https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1)
+- [The art side of AI at transmediale + CTM](https://medium.com/@elluba/the-art-side-of-ai-at-transmediale-ctm-91e1abe24f72)
+- [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
+- [AI in Recent Art Practice](https://www.phoenix.org.uk/event/luba-elliott-ai-in-recent-art-practice/)
 
-[Instructions for Humans](http://instructionsforhumans.com)
+[Machine Learning for Artists](http://ml4a.github.io) - a collection of free educational resources by Gene Kogan
+
+[Instructions for Humans](http://instructionsforhumans.com), my exhibition at Birmingham Open Media.
 
 ## Deep Dream
 
-[Research Blog: Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) - original Google research blog post from 2015
+[Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) - original Google research blog post from 2015
 
-[Inceptionism: Going deeper into Neural Networks   - Google Photos](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB) - original photo gallery
+[Inceptionism: image gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
 
 [#Deepdream is blowing my mind – Memo Akten](https://medium.com/@memoakten/deepdream-is-blowing-my-mind-6a2c8669c698)
-
 
 [Deep Dream Generator](http://deepdreamgenerator.com)
 
@@ -39,7 +40,7 @@ AI Art overview essays:
 
 [Invisible Cities](https://opendot.github.io/ml4a-invisible-cities/)
 
-[Image-to-Image Demo - Affine Layer](https://affinelayer.com/pixsrv/) (edges2cats)
+[Image-to-Image Demo](https://affinelayer.com/pixsrv/) (edges2cats)
 
 [Mario Klingemann](http://mario-klingemann.tumblr.com) 
   
@@ -53,14 +54,14 @@ AI Art overview essays:
 
 
 # How it works
-[What Neural Networks See by Gene Kogan - AI Experiments](https://experiments.withgoogle.com/ai/what-neural-nets-see)
+[What Neural Networks See by Gene Kogan](https://experiments.withgoogle.com/ai/what-neural-nets-see)
 
 # Text Processing
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
-[GitHub - jcjohnson/torch-rnn: Efficient, reusable RNNs and LSTMs for torch](https://github.com/jcjohnson/torch-rnn)
+[torch-rnn](https://github.com/jcjohnson/torch-rnn)
 
-[Wittgenstein wandelt wehmütig widriger winde wegen Wienwärts by Pete Ashton (Hardcover) — Lulu GB](http://www.lulu.com/shop/pete-ashton/wittgenstein-wandelt-wehm%C3%BCtig-widriger-winde-wegen-wienw%C3%A4rts/hardcover/product-22963804.html)
+[My generated Wittgenstein book](http://www.lulu.com/shop/pete-ashton/wittgenstein-wandelt-wehm%C3%BCtig-widriger-winde-wegen-wienw%C3%A4rts/hardcover/product-22963804.html) for [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/)
 
 # Sorting
 [A Portrait of Birmingham - project page](http://art.peteashton.com/portrait-bham) | [Online version](https://peteash10.github.io/tsne-xcw2/)
@@ -69,9 +70,9 @@ AI Art overview essays:
 
 [Jason Levine's livecoding t-sne](https://www.instagram.com/p/Bf7ztMCH4H6/?taken-by=livecodez)
 
-[GitHub - sicchio/tSNE_dance: Python tSNE with images](https://github.com/sicchio/tSNE_dance)
+[Python tSNE-with-images code](https://github.com/sicchio/tSNE_dance)
 
-[Moritz Stefaner - Multiplicity](http://truth-and-beauty.net/projects/multiplicity)
+[Moritz Stefaner's Multiplicity](http://truth-and-beauty.net/projects/multiplicity)
 
 -----
 
