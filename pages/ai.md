@@ -34,19 +34,17 @@ Some AI Art overview essays:
 
 ## Deep Dream
 
-[Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) - original Google research blog post from 2015
+[Inceptionism: Going Deeper into Neural Networks](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) - original Google research blog post from 2015. See also the [original image gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
 
-[Inceptionism: image gallery](https://photos.google.com/share/AF1QipPX0SCl7OzWilt9LnuQliattX4OUCj_8EP65_cTVnBmS1jnYgsGQAieQUc1VQWdgQ?key=aVBxWjhwSzg2RjJWLWRuVFBBZEN1d205bUdEMnhB)
+[Deepdream is blowing my mind](https://medium.com/@memoakten/deepdream-is-blowing-my-mind-6a2c8669c698) - article by Memo Akten stressing it's *not* about the "trippy visuals".
 
-[#Deepdream is blowing my mind – Memo Akten](https://medium.com/@memoakten/deepdream-is-blowing-my-mind-6a2c8669c698)
+[Deep Dream Generator](http://deepdreamgenerator.com) - online service to make DD images.
 
-[Deep Dream Generator](http://deepdreamgenerator.com)
-
-[Deep Dreamer software (Mac)](https://www.71squared.com/deepdreamer)
+[Deep Dreamer](https://www.71squared.com/deepdreamer) -  software (Mac) for making DD images.
 
 
 ## Pix 2 Pix
-[pix2pix: Image-to-image translation with conditional adversarial nets](https://github.com/phillipi/pix2pix)
+[pix2pix: Image-to-image translation with conditional adversarial nets](https://github.com/phillipi/pix2pix) - software used in a lot of visual AI art.
 
 [Invisible Cities](https://opendot.github.io/ml4a-invisible-cities/) - mixing up satellite maps between cities real and imagined. 
 
@@ -54,35 +52,37 @@ Some AI Art overview essays:
 
 [Mario Klingemann](http://mario-klingemann.tumblr.com) 
   
-- [Cameraless Photography with Neural Networks: Mario Klingemann at The Photographers' Gallery](https://www.youtube.com/watch?v=21W5-q5YYjw)  
-- [A Neurographer Puts the Art in Artificial Intelligence](https://www.wired.com/story/neurographer-puts-the-art-in-artificial-intelligence/)
+- [Cameraless Photography with Neural Networks](https://www.youtube.com/watch?v=21W5-q5YYjw) - Mario's talk and interview at The Photographers' Gallery 
+- [A Neurographer Puts the Art in Artificial Intelligence](https://www.wired.com/story/neurographer-puts-the-art-in-artificial-intelligence/) - Wired article.
 
 [Memo Akten](http://www.memo.tv)  
 
-- [Memo Akten: Learning to See](http://www.memo.tv/learning-to-see-you-are-what-you-see/)  
-- [A digital god for a digital culture – Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1)
+- [Memo Akten: Learning to See](http://www.memo.tv/learning-to-see-you-are-what-you-see/) - work in progress using pix2pix and a webcam.
+- [A digital god for a digital culture – Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1) - transcript of his 2016 talk. 
 
 
 ## How it works
-[What Neural Networks See by Gene Kogan](https://experiments.withgoogle.com/ai/what-neural-nets-see)
+[What Neural Networks See by Gene Kogan](https://experiments.withgoogle.com/ai/what-neural-nets-see) - short video lecture. 
 
 ## Text Processing
-[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - article by Andrej Karpathy.
 
-[torch-rnn](https://github.com/jcjohnson/torch-rnn)
+[torch-rnn](https://github.com/jcjohnson/torch-rnn) - text processing and generating software.
 
-[My generated Wittgenstein book](http://www.lulu.com/shop/pete-ashton/wittgenstein-wandelt-wehm%C3%BCtig-widriger-winde-wegen-wienw%C3%A4rts/hardcover/product-22963804.html) for [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/)
+[My generated Wittgenstein book](http://www.lulu.com/shop/pete-ashton/wittgenstein-wandelt-wehm%C3%BCtig-widriger-winde-wegen-wienw%C3%A4rts/hardcover/product-22963804.html) for [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/) using torch-rnn.
 
-[Reading and Writing Electronic Text](http://rwet.decontextualize.com) - course description at NYU. 
+[Reading and Writing Electronic Text](http://rwet.decontextualize.com) - course description at NYU, run by [Allison Parrish](https://www.decontextualize.com).  
 
 ## Sorting
 [A Portrait of Birmingham - project page](http://art.peteashton.com/portrait-bham) | [Online version](https://peteash10.github.io/tsne-xcw2/)
 
-[t-distributed stochastic neighbor embedding - Wikipedia](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
+[t-distributed stochastic neighbor embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) - Wikipedia article on t-SNE. 
 
-[Jason Levine's livecoding t-sne](https://www.instagram.com/p/Bf7ztMCH4H6/?taken-by=livecodez)
+[Jason Levine's livecoding t-SNE animation](https://www.instagram.com/p/Bf7ztMCH4H6/?taken-by=livecodez)
 
-[Python tSNE-with-images code](https://github.com/sicchio/tSNE_dance)
+[Python tSNE-with-images code](https://github.com/sicchio/tSNE_dance) - I did get this to work, once.
+
+[ofxTSNE](https://github.com/genekogan/ofxTSNE) - t-SNE code for OpenFrameworks, a programming environment used by many artist-coders. (I used this for most of my sorted grids.)
 
 [Moritz Stefaner's Multiplicity](http://truth-and-beauty.net/projects/multiplicity)
 
