@@ -44,7 +44,7 @@ Some AI Art overview essays:
 
 [Mario Klingemann](http://mario-klingemann.tumblr.com) 
   
-- [Cameraless Photography with Neural Networks: Mario Klingemann in conversation with Daniel Rourke - YouTube](https://www.youtube.com/watch?v=21W5-q5YYjw)  
+- [Cameraless Photography with Neural Networks: Mario Klingemann at The Photographers' Gallery](https://www.youtube.com/watch?v=21W5-q5YYjw)  
 - [A Neurographer Puts the Art in Artificial Intelligence](https://www.wired.com/story/neurographer-puts-the-art-in-artificial-intelligence/)
 
 [Memo Akten](http://www.memo.tv)  
