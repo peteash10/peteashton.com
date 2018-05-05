@@ -7,6 +7,20 @@ permalink: /ai/
 
 Links and resources for the [AI for Artists workshop](https://www.phoenix.org.uk/event/ai-for-artists/) run by [Pete Ashton](http://art.peteashton.com/) at the Phoenix, Leicester, 5th May 2018, part of [Art-AI](http://art-ai.dmu.ac.uk).
 
+### About Pete
+
+This is [my main website](http://peteashton.com/).
+
+This is [my Art portfolio site](http://art.peteashton.com/).
+
+This is [Instructions for Humans](http://instructionsforhumans.com), my exhibition at Birmingham Open Media.
+
+### Some general resources for coders
+
+[Runway ML](https://runwayml.com) - Machine Learning for Everyone - a desktop app for running the sort of things you need a degree to run normally. 
+
+[Machine Learning for Artists](http://ml4a.github.io) - a collection of free educational resources by Gene Kogan
+
 ## Introduction
 
 [AI work exhibited at Ars Electronica 2017](https://www.aec.at/ai/en/media-art-between-natural-and-artificial-intelligence/)
@@ -17,10 +31,6 @@ Some AI Art overview essays:
 - [The art side of AI at transmediale + CTM](https://medium.com/@elluba/the-art-side-of-ai-at-transmediale-ctm-91e1abe24f72)
 - [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb)
 - [AI in Recent Art Practice](https://www.phoenix.org.uk/event/luba-elliott-ai-in-recent-art-practice/)
-
-[Machine Learning for Artists](http://ml4a.github.io) - a collection of free educational resources by Gene Kogan
-
-[Instructions for Humans](http://instructionsforhumans.com), my exhibition at Birmingham Open Media.
 
 ## Deep Dream
 
@@ -35,12 +45,12 @@ Some AI Art overview essays:
 [Deep Dreamer software (Mac)](https://www.71squared.com/deepdreamer)
 
 
-# Pix 2 Pix
+## Pix 2 Pix
 [pix2pix: Image-to-image translation with conditional adversarial nets](https://github.com/phillipi/pix2pix)
 
-[Invisible Cities](https://opendot.github.io/ml4a-invisible-cities/)
+[Invisible Cities](https://opendot.github.io/ml4a-invisible-cities/) - mixing up satellite maps between cities real and imagined. 
 
-[Image-to-Image Demo](https://affinelayer.com/pixsrv/) (edges2cats)
+[Image-to-Image Demo](https://affinelayer.com/pixsrv/) featuring the legendary edges2cats. This might not still work. 
 
 [Mario Klingemann](http://mario-klingemann.tumblr.com) 
   
@@ -53,17 +63,19 @@ Some AI Art overview essays:
 - [A digital god for a digital culture – Artists and Machine Intelligence](https://medium.com/artists-and-machine-intelligence/a-digital-god-for-a-digital-culture-resonate-2016-15ea413432d1)
 
 
-# How it works
+## How it works
 [What Neural Networks See by Gene Kogan](https://experiments.withgoogle.com/ai/what-neural-nets-see)
 
-# Text Processing
+## Text Processing
 [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 [torch-rnn](https://github.com/jcjohnson/torch-rnn)
 
 [My generated Wittgenstein book](http://www.lulu.com/shop/pete-ashton/wittgenstein-wandelt-wehm%C3%BCtig-widriger-winde-wegen-wienw%C3%A4rts/hardcover/product-22963804.html) for [Goodbye Wittgenstein](http://art.peteashton.com/goodbye-wittgenstein/)
 
-# Sorting
+[Reading and Writing Electronic Text](http://rwet.decontextualize.com) - course description at NYU. 
+
+## Sorting
 [A Portrait of Birmingham - project page](http://art.peteashton.com/portrait-bham) | [Online version](https://peteash10.github.io/tsne-xcw2/)
 
 [t-distributed stochastic neighbor embedding - Wikipedia](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
@@ -73,6 +85,32 @@ Some AI Art overview essays:
 [Python tSNE-with-images code](https://github.com/sicchio/tSNE_dance)
 
 [Moritz Stefaner's Multiplicity](http://truth-and-beauty.net/projects/multiplicity)
+
+## Ethics, Politics and other issues
+
+[My bookmarks for Instructions for Humans](https://pinboard.in/u:peteashton/t:ifh) containing many articles on issues surrounding data collection, processing and AI. 
+
+[AI Now Institute](https://ainowinstitute.org) - A research institute examining the social implications of artificial intelligence.
+
+[The Glass Room](https://theglassroom.org/) - Exhibit in London featuring artworks dealing with data privacy issues. 
+
+[Tactical Tech](https://tacticaltech.org/) - a Berlin-based non-profit organisation who has been responding to shifts in civil liberties, rights and autonomy for the past 15 years by finding practical solutions for a global network of activists, technologists and engaged citizens. 
+
+[FAT ML](https://www.fatml.org) - Fairness, Accountability, and Transparency in Machine Learning
+
+## Artistic schools, festivals, etc
+
+[School for Poetic Computation](http://sfpc.io), New York. 
+
+[Eyeo Festival](http://eyeofestival.com), Minneapolis. 
+
+[School of Machines, Making & Make-Believe](http://schoolofma.org) - Berlin.
+
+[Eyebeam](https://www.eyebeam.org), New York.
+
+[BOM](http://bom.org.uk), Birmingham.
+
+plus many more...
 
 -----
 
