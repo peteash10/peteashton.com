@@ -17,6 +17,10 @@ Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ![](images/29245876503_038141b55f_o.jpg)
 
+## CV
+
+I'm a self-employed freelance artist practitioner. If you would like to hire me on that basis (or on some other basis - I'm not too fussy) [here is my CV](http://art.peteashton.com/cv/).
+
 ## Art
 
 [My art portfolio site](http://art.peteashton.com) has my main works with documentation.
@@ -50,7 +54,7 @@ I'm involved in various things, often with other people.
 
 -	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett.
 
--	[Bunminster Fuller & co](http://bunminster.uk) - Rabbits are awesome.  
+-	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and had started documenting everything we know on this website.   
 
 ## Photography
 
@@ -58,7 +62,7 @@ I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton
 
 ## Presences
 
-I have content on the following commercial online services, though my use fluxuates. It's always best to email me than DM or similar.
+I have content on the following commercial online services, though my use fluctuates. It's always best to email me than DM or similar.
 
 -	[Twitter](https://twitter.com/peteashton)  
 -	[Vimeo](http://vimeo.com/peteashton/)
