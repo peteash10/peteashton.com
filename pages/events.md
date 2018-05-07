@@ -9,7 +9,7 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 **For photography events** related to Photo School, [see the latest newsletter](https://us2.campaign-archive.com/home/?u=7831fcef470b0e8f86ec0af40&id=9a536a32c0).
 
-**Art Events**
+## Art Events
 
 June 16: **Open Zine Archive** at [Artefact](http://artefactstirchley.co.uk), Stirchley. All my zines and small press comics from the 1990s will be on display, curated by the [Cross City Zine](https://crosscityzine.wordpress.com) editors.
 
