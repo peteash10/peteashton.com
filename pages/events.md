@@ -15,7 +15,7 @@ June 16: **Open Zine Archive** at [Artefact](http://artefactstirchley.co.uk), St
 
 July 27-29: [**Birmingham Camera Obscura**](http://bhamobscura.com) at the [Lunar Festival](http://lunarfestival.co.uk).
 
-September 6-16: I'll be running a new walk in the Jewellery Quarter comissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk).
+September 6-16: I'll be running a new walk in the Jewellery Quarter comissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk). Dates tbc.
 
 Sept - Nov: [**Rivers of the World**](http://riversoftheworld.org) exhibtion touring London, Exeter and Worcester, featuring work produced by me with Worcestershire pupils. 
 
