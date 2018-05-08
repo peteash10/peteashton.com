@@ -15,7 +15,9 @@ June 16: **Open Zine Archive** at [Artefact](http://artefactstirchley.co.uk), St
 
 July 27-29: [**Birmingham Camera Obscura**](http://bhamobscura.com) at the [Lunar Festival](http://lunarfestival.co.uk).
 
-September 6-16: I'll be running a new walk in the Jewellery Quarter comissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk). Dates tbc.
+September 6-16: **Photo Walk**. I'll be running a new walk in the Jewellery Quarter comissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk). Dates tbc.
+
+October (date tbc): **Crit Club** at Vivid Projects. An opportuity for Black Hole Club members to talk about their practice or present existing or new work to the public and gain critical feedback. I'll be doing this one. 
 
 Sept - Nov: [**Rivers of the World**](http://riversoftheworld.org) exhibtion touring London, Exeter and Worcester, featuring work produced by me with Worcestershire pupils. 
 
