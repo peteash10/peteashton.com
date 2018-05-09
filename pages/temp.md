@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Anamorphosis, from PK, for Black Hole Club
+title: Contemporary Trompe-l'œil, from PK, for Black Hole Club
 permalink: /temp/
 # category: menu
 ---
