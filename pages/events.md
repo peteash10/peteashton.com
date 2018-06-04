@@ -11,7 +11,7 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## Art Events
 
-June 12: [**Interrogang**](https://twitter.com/theinterrogang). I'll be leading a discussion on the role of artists in exploring issues related to data by using [Golan Levin's talk to Google engineers](https://youtu.be/klDEgdUYiIE) as our framing. All are welcome. 
+June 12: [**Interrogang**](https://twitter.com/theinterrogang). I'll be leading a discussion on the role of artists in exploring issues related to data. [Here's the reading (actally a video)](http://peteashton.com/interrogang/). Starts 7:30pm, all are welcome. 
 
 June 16: [**Open Zine Archive**](https://www.crosscityzine.org/oza) at [Artefact](http://artefactstirchley.co.uk), Stirchley. All my zines and small press comics from the 1990s will be on display, curated by the [Cross City Zine](https://www.crosscityzine.org/) editors who, as young zinesters, will be trying to make sense of them. Jez Higgins and myself, who were there at the time, will be on hand. 
 
