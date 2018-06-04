@@ -7,6 +7,8 @@ permalink: /interrogang/
 
 On June 12th I'll be leading a discussion for [The Interrogang](https://twitter.com/theinterrogang), a monthly meetup at [Artefact](https://www.artefactstirchley.co.uk), Stirchley, on the role of artists and artworks in addressing issues related to data, AI and computing trends. 
 
+All are welcome! The event runs 7:30 - 9:30pm. 
+
 This is obviously a massive topic that could go in all sorts of directions so I'd like to use [Golan Levin's 20 minute talk to Google engineers](https://youtu.be/klDEgdUYiIE) as a framework. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klDEgdUYiIE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
