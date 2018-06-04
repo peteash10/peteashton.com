@@ -41,6 +41,8 @@ This computer-vision app videos a hand and adds, subtracts or warps fingers live
 
 [5m41s](https://youtu.be/klDEgdUYiIE?t=5m41s)
 
+[Play with it online](http://www.terrapattern.com)
+
 "a visual search engine for satellite imagery"
 
 Orbital insight for the rest of us.
