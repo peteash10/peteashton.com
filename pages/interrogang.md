@@ -5,7 +5,7 @@ permalink: /interrogang/
 # category: menu
 ---
 
-On June 12th I'll be leading a discussion on the role of art and artworks in addressing issues related to data, AI and computing trends. 
+On June 12th I'll be leading a discussion for [The Interrogang](https://twitter.com/theinterrogang), a monthly meetup at [Artefact](https://www.artefactstirchley.co.uk), Stirchley, on the role of artists and artworks in addressing issues related to data, AI and computing trends. 
 
 This is obviously a massive topic that could go in all sorts of directions so I'd like to use [Golan Levin's 20 minute talk to Google engineers](https://youtu.be/klDEgdUYiIE) as a framework. 
 
@@ -59,7 +59,7 @@ Golan describes it "in short" as:
 
 ![](https://www.diaart.org/media/w1050h700/ArtistsWebProjects/komar-melamid-usmost-2.jpg)
 
-Parodies attempts to quantify artistic masterpieces through empirical surveys. 
+Artwork that parodies the attempts to quantify artistic masterpieces through empirical surveys. 
 
 Talking about digital works that strive to be "Art": "What these approaches miss is the relationship of the artwork to its audience, and the socal context of this transmission."
 
@@ -84,7 +84,7 @@ Using Optical Illusions, talks about finding technologies that "beat the brain".
 
 "Intelligence is in the mind of the beholder and artists are great at manipulating the mind of the beholder."
 
-## Great AI art made by engineers
+## Great AI art made by engineers
 
 [15m51s](https://youtu.be/klDEgdUYiIE?t=15m51s)
 
@@ -103,6 +103,8 @@ Using Optical Illusions, talks about finding technologies that "beat the brain".
 - "This is conceptual art of the highest order!"
 
 ## Worries and Concerns
+
+[18m20s](https://youtu.be/klDEgdUYiIE?t=18m20s)
 
 As an artist he's sensitive to a side of visual culture and the way in which visual techniques are being optimised within it. 
 
