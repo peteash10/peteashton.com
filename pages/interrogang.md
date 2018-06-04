@@ -13,7 +13,7 @@ This is obviously a massive topic that could go in all sorts of directions so I'
 
 [Golan is an artist and educator](http://www.flong.com) who teaches at Carnegie Melon and directs the [Studio for Creative Inquiry](http://studioforcreativeinquiry.org). He's been making art with computers and data for many many years and, as an academic, has a good handle on what it all might mean. 
 
-While this talk is pretty rapid fire and doesn't shy away from academic jargon, it outlines some very useful areas that I'd like us to discuss. 
+While this talk is pretty rapid fire and doesn't shy away from academic language, it outlines some very useful areas that I'd like us to discuss. 
 
 ## Bottom Feeding on Surevillance Technology
 
@@ -21,7 +21,7 @@ This feels like a good description of what we're all doing when we're working on
 
 ## Once AI works it just becomes engineering
 
-Against productivity. Using this stuff for "useless", serendipitous things helps retain it's intelligence. 
+Using AI tech for "useless", serendipitous things helps retain it's intelligence. 
 
 This is a common defense of art - that it must be useless because without that we lose our humanity. Interesting to see Golan apply that here. Is he right?
 
