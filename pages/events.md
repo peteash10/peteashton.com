@@ -11,11 +11,9 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## Art Events
 
-June 12: [**Interrogang**](https://twitter.com/theinterrogang). I'll be leading a discussion on the role of artists in exploring issues related to data. [Here's the reading (actally a video)](http://peteashton.com/interrogang/). Starts 7:30pm, all are welcome. 
+June 16-23: [**Open Zine Archive**](https://www.crosscityzine.org/oza) at [Artefact](http://artefactstirchley.co.uk), Stirchley. All my zines and small press comics from the 1990s will be on display, curated by the [Cross City Zine](https://www.crosscityzine.org/) editors who, as young zinesters, will be trying to make sense of them. This is an opportuity to see if you, yes you, might want to do something with the archive. 
 
-June 15: [**Assembly**](https://www.a-n.co.uk/assembly/birmingham/) - I'll be in the audience at this day of talks and such about Birmingham's art-making spaces. I've also been told the section of Andy Howlett's work-in-progress film about the Central Library that he's showing at 5pm features me dismissing nostagia as a disease, so that'll be fun.
-
-June 16: [**Open Zine Archive**](https://www.crosscityzine.org/oza) at [Artefact](http://artefactstirchley.co.uk), Stirchley. All my zines and small press comics from the 1990s will be on display, curated by the [Cross City Zine](https://www.crosscityzine.org/) editors who, as young zinesters, will be trying to make sense of them. Jez Higgins and myself, who were there at the time, will be on hand. 
+June 28-30: **Black Hole Club Mini Residency at Artspace Arcadia Gallery** - Members of [Black Hole Club](http://blackholeclub.com), incuding myself, will be in [a shopping centre unit](http://coventry-artspace.co.uk/lesson/artspace-arcadia-gallery/) make art and mucking about with tech for three days. Open to the public 12-3pm. Come say hi.  
 
 June 29 - July 6: **Another Dimension** - I have an installation in the next group show by Black Hole Club members at [Vivid Projects](http://www.vividprojects.org.uk), Digbeth. "Reflecting on ways in which optical illusions alter how we perceive the real, physical world."
 
