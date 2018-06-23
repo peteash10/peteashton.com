@@ -15,7 +15,7 @@ June 16-23: [**Open Zine Archive**](https://www.crosscityzine.org/oza) at [Artef
 
 June 28-30: **Black Hole Club Mini Residency at Artspace Arcadia Gallery** - Members of [Black Hole Club](http://blackholeclub.com), incuding myself, will be in [a shopping centre unit](http://coventry-artspace.co.uk/lesson/artspace-arcadia-gallery/) make art and mucking about with tech for three days. Open to the public 12-3pm. Come say hi.  
 
-June 29 - July 6: **Another Dimension** - I have an installation titled *Flash* in the next group show by Black Hole Club members at [Vivid Projects](http://www.vividprojects.org.uk), Digbeth. "Reflecting on ways in which optical illusions alter how we perceive the real, physical world."  
+June 29 - July 6: **[Another Dimension](https://www.facebook.com/events/256336738467480/)** - I have an installation titled *Flash* in the next group show by Black Hole Club members at [Vivid Projects](http://www.vividprojects.org.uk), Digbeth. "Reflecting on ways in which optical illusions alter how we perceive the real, physical world."  
 29th June 18:00 - 20:00  
 30th June, 5th July: 12:00 - 17:00    
 6th June: 12:00 - 20:00  
