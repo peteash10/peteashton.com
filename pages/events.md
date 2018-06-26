@@ -20,8 +20,6 @@ June 29 - July 6: **[Another Dimension](https://www.facebook.com/events/25633673
 30th June, 5th July: 12:00 - 17:00    
 6th June: 12:00 - 20:00  
 
-July 7: **Art and Tech Social Summit** with [Birmingham Open Media](http://www.bom.org.uk). "Bringing together artists, technologists, writers and researchers to discuss AI in a public and informal environment." More details tba.
-
 July 27-29: [**Birmingham Camera Obscura**](http://bhamobscura.com) at the [Lunar Festival](http://lunarfestival.co.uk).
 
 September 8 / 15: **Photo Walk**. I'll be running two new walks in the Jewellery Quarter commissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk).
