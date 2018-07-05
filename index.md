@@ -49,11 +49,8 @@ I send a "what Pete's up to" email out every so often. [Subscribe here.](https:/
 I'm involved in various things, often with other people. 
 
 -	[Photo School](http://photo-school.co.uk) - Teaching photography and running photo walks in Birmingham. 
- 
--	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin.  
-
+-	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin. 
 -	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett.
-
 -	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and had started documenting everything we know on this website.   
 
 ## Photography
