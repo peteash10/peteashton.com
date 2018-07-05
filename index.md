@@ -15,7 +15,7 @@ Email: pete@peteashton.com
 Tel: +44 (0)7776 690 106  
 Twitter: [@peteashton](http://twitter.com/peteashton)
 
-![](images/29245876503_038141b55f_o.jpg)
+![](http://peteashton.com/images/29245876503_038141b55f_o.jpg)
 
 ## CV
 
@@ -74,6 +74,6 @@ Dormant but not deleted, yet:
 -	[Instagram](https://www.instagram.com/peteashton/)  
 -	[Tumblr](http://peteashton.tumblr.com)  
 
-![](images/pixelpete.jpg)
+![](http://peteashton.com/images/pixelpete.jpg)
 
 *Photo by [Fiona Cullinan](http://fionacullinan.com), pixel art by [Jonny Graney](https://www.hipkissandgraney.com).*
