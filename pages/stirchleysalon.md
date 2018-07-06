@@ -10,7 +10,7 @@ permalink: /stirchleysalon/
 
 **Stirchley Salon** is a new, regular event to be held at [Artefact Projects](http://artefactstirchley.co.uk) where artists and makers are invited to talk about their work to an audience of peers and interested persons. 
 
-The format is friendly and informal with questions and comments welcome. Think of it less as a presentation, more as a conversation framed and directed by the artists work. 
+The format is friendly and informal with questions and comments welcome. Think of it less as a presentation, more as a conversation framed and directed by the artists work, sparking ideas and collaborations within Stirchley's vibrant artist communities.
 
 Speakers should be able to talk about an aspect of their practice or a particular piece of work for 10-15 minutes and be willing to answer questions for another 15. Discussions will be moderated for relevance and diversity of voices but otherwise left to freewheel. 
 
