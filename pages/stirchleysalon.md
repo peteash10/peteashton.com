@@ -14,7 +14,7 @@ The format is friendly and informal with questions and comments welcome. Think o
 
 Speakers should be able to talk about an aspect of their practice or a particular piece of work for 10-15 minutes and be willing to answer questions for another 15. Discussions will be moderated for relevance and diversity of voices but otherwise left to freewheel. 
 
-Each salon which will last 90 minutes including a break and feature two artists or makers. 
+Each salon which will last 90 minutes including a break and feature two artists or makers. What happens afterwards is up to you! 
 
 Stirchley Salon is run by [Pete Ashton](http://art.peteashton.com) with the long term goal of being self-sustaining and run by the local community. 
 
