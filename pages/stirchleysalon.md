@@ -16,8 +16,8 @@ Speakers should be able to talk about an aspect of their practice or a particula
 
 Each salon which will last 90 minutes including a break and feature two artists or makers. What happens afterwards is up to you! 
 
-Stirchley Salon is run by [Pete Ashton](http://art.peteashton.com) with the long term goal of being self-sustaining and run by the local community. 
+Stirchley Salon is organised by [Pete Ashton](http://art.peteashton.com) with the long term goal of being self-sustaining and run by the local community. It will be free to attend though donations may be solicited to cover travel and drinks for the speakers. 
 
 If you would like to speak at a the first few salons, starting late summer / early autumn 2018, please email pete@peteashton.com
 
-*(Image superimposes a reading of Voltaire at the [salon of Madame Geoffrin](https://commons.wikimedia.org/wiki/File:Salon_de_Madame_Geoffrin.jpg) in Paris, 1812, on to a fine example of recent Stirchlillian art.)* 
+*(Image superimposes a reading of Voltaire at the [salon of Madame Geoffrin](https://commons.wikimedia.org/wiki/File:Salon_de_Madame_Geoffrin.jpg) in Paris, 1812, on to a fine example of recent Stirchillian art.)* 
