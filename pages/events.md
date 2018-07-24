@@ -11,8 +11,6 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## Art Events
 
-July 27-29: [**Birmingham Camera Obscura**](http://bhamobscura.com) at the [Lunar Festival](http://lunarfestival.co.uk).
-
 September 8 / 15: **Photo Walk**. I'll be running two new walks in the Jewellery Quarter commissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk).
 
 October 9: **Crit Club** at Vivid Projects. As a [Black Hole Club](http://www.blackholeclub.com) member I'll be talking about my practice and presenting new work to the public and my peers to gain critical feedback. All are welcome, especially my peers. My mother will hopefully also be in attendance, though probably not on stage.  
