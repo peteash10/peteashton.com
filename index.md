@@ -25,6 +25,12 @@ I'm a self-employed freelance artist practitioner. If you would like to hire me 
 
 [My art portfolio site](http://art.peteashton.com) has my main works with documentation.
 
+## Blog & Newsletter
+
+I've been blogging since 2000 and currently maintain a data-based journal of my life and interests at [blog.peteashton.com](http://blog.peteashton.com).
+
+I send a "what Pete's up to" email out every so often. [Subscribe here.](https://tinyletter.com/peteashton)
+
 ## Events
 
 [A list of all the events](http://peteashton.com/events/) I'm running, am involved with or want you to know I'm attending.
@@ -34,15 +40,6 @@ I'm a self-employed freelance artist practitioner. If you would like to hire me 
 [I run workshops on photography and technology](http://peteashton.com/workshops/) which you can commission me to run. 
 
 I do a fair amount of public speaking. [Here's a few talks I actually remembered to record.](http://peteashton.com/talks/)
-
-## Blog
-
-Sometimes my head gets too full and I need to pour words into [blog.peteashton.com](http://blog.peteashton.com).
-
-## Newsletter
-
-I send a "what Pete's up to" email out every so often. [Subscribe here.](https://tinyletter.com/peteashton)
-
 
 ## Projects
 
