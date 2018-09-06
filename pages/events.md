@@ -10,6 +10,8 @@ Here's a list of upcoming things I'm either running, am involved with or want yo
 
 ## Art Events
 
+September 7: [**Blackholeclub.com**](http://www.vividprojects.org.uk/programme/black-hole-club-online/) Online exhibition of work by Black Hole Club members launching at Vivid gallery, 6-8pm.
+
 September 8 / 15: **Photo Walk**. I'll be running two new walks in the Jewellery Quarter commissioned for [Birmingham Heritage Week](http://birminghamheritageweek.co.uk).
 
 September 12th: [**Stirchey Salon.**](https://www.artefactstirchley.co.uk/stirchley-salon) First of a regular series of artist meetups I'm running at Artefact. All welcome! 
