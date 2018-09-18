@@ -56,21 +56,13 @@ I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton
 
 ## Presences
 
-I have content on the following commercial online services, though my use fluctuates. It's always best to email me than DM or similar.
+I have content on / give data to the following commercial online services, though my use fluctuates. It's always best to email me than DM or similar.
 
 -	[Twitter](https://twitter.com/peteashton)  
 -	[Vimeo](http://vimeo.com/peteashton/)
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
--	[GitHub](https://github.com/peteash10) 
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
-- [Spotify](https://open.spotify.com/user/ft494dxn3wb6vlbhi69w5reln?si=R6982hhhTZ2iVVBERk8AJw)
-
-Dormant but not deleted, yet:
-
--	[Instagram](https://www.instagram.com/peteashton/)  
--	[Tumblr](http://peteashton.tumblr.com)  
--	[Instapaper](https://www.instapaper.com/p/peteashton) 
-
+-	[Spotify](https://open.spotify.com/user/ft494dxn3wb6vlbhi69w5reln?si=R6982hhhTZ2iVVBERk8AJw)
 
 ![](http://peteashton.com/images/pixelpete.jpg)
 
