@@ -64,6 +64,6 @@ I have content on / give data to the following commercial online services, thoug
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
 -	[Spotify](https://open.spotify.com/user/ft494dxn3wb6vlbhi69w5reln?si=R6982hhhTZ2iVVBERk8AJw)
 
-![](http://peteashton.com/images/pixelpete.jpg)
+![](http://peteashton.com/images/pete_patronum_de-lepus.jpg)
 
-*Photo by [Fiona Cullinan](http://fionacullinan.com), pixel art by [Jonny Graney](https://www.hipkissandgraney.com).*
+*Photo by [Fiona Cullinan](http://fionacullinan.com), Line art by [Jonny Graney](https://www.hipkissandgraney.com).*
