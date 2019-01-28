@@ -27,7 +27,7 @@ I'm a self-employed freelance artist practitioner. If you would like to hire me 
 
 ## Blog & Newsletter
 
-I've been blogging since 2000 and currently maintain a chronological web-based journal of my life and interests at [blog.peteashton.com](http://blog.peteashton.com).
+I've been blogging on and off since 2000 and currently maintain a chronological web-based journal of my life and interests at [blog.peteashton.com](http://blog.peteashton.com).
 
 I send a "what Pete's up to" email out every so often. [Subscribe here.](https://buttondown.email/peteashton)
 
@@ -47,8 +47,9 @@ I'm involved in various things, often with other people.
 
 -	[Photo School](http://photo-school.co.uk) - Teaching photography and running photo walks in Birmingham. 
 -	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin. 
+- [Loaf](https://loafonline.co.uk) - I work part-time at Stirchley's finest bakery and cookery school and have gotten involved with the [Stirchley Co-operative Development](https://www.stirchley.coop) project.
 -	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett.
--	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and had started documenting everything we know on this website.   
+-	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and document everything we know on this website.   
 
 ## Photography
 
@@ -63,6 +64,8 @@ I have content on / give data to the following commercial online services, thoug
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
 -	[Spotify](https://open.spotify.com/user/ft494dxn3wb6vlbhi69w5reln?si=R6982hhhTZ2iVVBERk8AJw)
+
+I'm registered on WhatsApp and Signal with my mobile phone number, should that be more efficient for you.
 
 ![](http://peteashton.com/images/pete_patronum_de-lepus.jpg)
 
