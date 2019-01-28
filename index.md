@@ -29,7 +29,7 @@ I'm a self-employed freelance artist practitioner. If you would like to hire me 
 
 I've been blogging since 2000 and currently maintain a chronological web-based journal of my life and interests at [blog.peteashton.com](http://blog.peteashton.com).
 
-I send a "what Pete's up to" email out every so often. [Subscribe here.](https://tinyletter.com/peteashton)
+I send a "what Pete's up to" email out every so often. [Subscribe here.](https://buttondown.email/peteashton)
 
 ## Events
 
