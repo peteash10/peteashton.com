@@ -45,11 +45,12 @@ I do a fair amount of public speaking. [Here's a few talks I actually remembered
 
 I'm involved in various things, often with other people. 
 
--	[Photo School](http://photo-school.co.uk) - Teaching photography and running photo walks in Birmingham. 
--	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin. 
+-	[Photo School](http://photo-school.co.uk) - I teach photography and run photo walks in Birmingham. 
 - [Loaf](https://loafonline.co.uk) - I work part-time at Stirchley's finest bakery and cookery school and have gotten involved with the [Stirchley Co-operative Development](https://www.stirchley.coop) project.
--	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett.
+- [Stirchley Salon](https://www.artefactstirchley.co.uk/stirchley-salon) - I chair an irregular meetup for artists and other creative types at Artefact in Stirchley.
 -	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and document everything we know on this website.   
+-	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin. (On hiatus.)
+-	[Cross City Walks](http://xcw.org.uk) - A walking project bisecting cities in straight lines with Andy Howlett. (On hiatus.)
 
 ## Photography
 

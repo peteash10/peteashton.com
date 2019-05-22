@@ -11,7 +11,7 @@ I am not a professional photographer, by which I mean I do not make a living fro
 
 I've been taking photos quite a while now and most of them are on the internet in some form. This means people sometimes use them for purposes of their own, and I'm generally fine with that. 
 
-I accept that copyright is broken, in that it only serves those with the most lawyers. If you really want to use one of my images against my wishes it's very doubtful I have the time, resources or inclination to fight you. You will, however, probably end up in the hell of your belief system, so there's that. 
+I accept that copyright is broken, in that it only serves those with the most lawyers. If you really want to use one of my images against my wishes it's very doubtful I have the time, resources or inclination to fight you. You will, however, probably end up in a circle of the hell of your belief system, so there's that. 
 
 This page attempts to outline my wishes, such as they are. If you don't think you come under the following and still want to do the right thing, please get in touch.
 
@@ -21,7 +21,7 @@ If you're some kind of artist and I've photographed you or your activities, such
 
 If you want to use my photo in a commercial environment, especially where it will appear in public, then I'd really like you to pay me a commercial rate. This is only fair, not to me but to those who are attempting to make a living from such things. I don't want to undercut them. 
 
-In the unlikely event of a photo of mine becoming newsworthy, all news outlets politically aligned to the right, or tainted by association with such an entity, can go screw themselves. The others can pay a journalist rate which I may keep or may donate to a rabbit charity, depending. 
+In the unlikely event of a photo of mine becoming newsworthy, all right-wing news outlets (Daily Mail, Sun/Times, Express), or tainted by association with such an entity, can go screw themselves. The others can pay a journalist rate which I may keep or may donate to a rabbit charity, depending. 
 
 I don't require a credit for my photographs accompanying someone else's work, such as an article or  in a brochure. No-one cares who took the photo in these situations. That said, if you have space it's a nice gesture. If it's online, please link to peteashton.com.
 
