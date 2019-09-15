@@ -13,7 +13,6 @@ category: menu
 
 Email: pete@peteashton.com  
 Tel: +44 (0)7776 690 106  
-Twitter: [@peteashton](http://twitter.com/peteashton)
 
 ![](http://peteashton.com/images/29245876503_038141b55f_o.jpg)
 
@@ -46,7 +45,7 @@ I do a fair amount of public speaking. [Here's a few talks I actually remembered
 I'm involved in various things, often with other people. 
 
 -	[Photo School](http://photo-school.co.uk) - I teach photography and run photo walks in Birmingham. 
-- [Loaf](https://loafonline.co.uk) - I work part-time at Stirchley's finest bakery and cookery school and have gotten involved with the [Stirchley Co-operative Development](https://www.stirchley.coop) project.
+- [Loaf](https://loafonline.co.uk) - I work at Stirchley's finest bakery and cookery school and have gotten involved with the [Stirchley Co-operative Development](https://www.stirchley.coop) project.
 - [Stirchley Salon](https://www.artefactstirchley.co.uk/stirchley-salon) - I chair an irregular meetup for artists and other creative types at Artefact in Stirchley.
 -	[Bunminster Fuller & co](http://bunminster.uk) - Fiona and I keep rabbits and document everything we know on this website.   
 -	[Birmingham Camera Obscura](http://bhamobscura.com) - Exploring and building camera obscuras with Jenny Duffin. (On hiatus.)
@@ -60,7 +59,7 @@ I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton
 
 I have content on / give data to the following commercial online services, though my use fluctuates. It's always best to email me than DM or similar.
 
--	[Twitter](https://twitter.com/peteashton)  
+-	[Twitter](https://twitter.com/peteashton) (links to blog posts only)  
 -	[Vimeo](http://vimeo.com/peteashton/)
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
