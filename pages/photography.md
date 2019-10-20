@@ -11,7 +11,7 @@ I am not a professional photographer, by which I mean I do not make a living fro
 
 I've been taking photos quite a while now and most of them are on the internet in some form. This means people sometimes use them for purposes of their own, and I'm generally fine with that. 
 
-I accept that copyright is broken, in that it only serves those with the most lawyers. If you really want to use one of my images against my wishes it's very doubtful I have the time, resources or inclination to fight you. You will, however, probably end up in a circle of the hell of your belief system, so there's that. 
+I accept that copyright is broken, in that it only serves those with the most lawyers. If you really want to use one of my images against my wishes it's very doubtful I have the time, resources or inclination to fight you. You will, however, end up in a circle of the hell of your belief system, so there's that. 
 
 **This page attempts to outline my wishes**, such as they are. If you don't think you come under the following and still want to do the right thing, please get in touch.
 
