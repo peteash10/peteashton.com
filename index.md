@@ -24,15 +24,12 @@ I'm a self-employed freelance artist practitioner. If you would like to hire me 
 
 [My art portfolio site](http://art.peteashton.com) has my main works with documentation.
 
-## Blog & Newsletter
+## Blogs & Newsletter
 
-I've been blogging on and off since 2000 and currently maintain a chronological web-based journal of my life and interests at [blog.peteashton.com](http://blog.peteashton.com).
+I've been blogging on and off since 2000 and currently maintain a chronological web-based journals in two places. Longer writing is at [blog.peteashton.com](http://blog.peteashton.com) while shorter blurts go to [notes.peteashton.com](http://notes.peteashton.com)
 
 I send a "what Pete's up to" email out every so often. [Subscribe here.](https://buttondown.email/peteashton)
 
-## Events
-
-[A list of all the events](http://peteashton.com/events/) I'm running, am involved with or want you to know I'm attending.
 
 ## Workshops and Talks
 
@@ -59,7 +56,7 @@ I still put my fancy photos on [Flickr](https://www.flickr.com/photos/peteashton
 
 I have content on / give data to the following commercial online services, though my use fluctuates. It's always best to email me than DM or similar.
 
--	[Twitter](https://twitter.com/peteashton) (links to blog posts only)  
+-	[Twitter](https://twitter.com/peteashton) (links to blog posts / newsletters only)  
 -	[Vimeo](http://vimeo.com/peteashton/)
 -	[Pinboard](https://pinboard.in/u:peteashton/)  
 -	[Flickr](https://www.flickr.com/photos/peteashton/)
